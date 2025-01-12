@@ -189,9 +189,6 @@ This project is released under the **MIT License**. For more details, see the [L
 
 ---
 
-Thank you for choosing **Udio Forensics Tool**! 🎉  
+Thank you for choosing **AI Udio Forensics Tool**! 🎉  
 If you have any questions or suggestions, feel free to contact me. 😊
 
----
-
-Fammi sapere se hai bisogno di ulteriori modifiche o chiarimenti! 😊
