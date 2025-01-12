@@ -1,6 +1,6 @@
 # 🎤 AI Udio Forensics Tool 🕵️‍♂️
 
-**Udio Forensics Tool** is a desktop application designed for forensic analysis of audio files. This tool allows you to detect manipulations, anomalies, and technical characteristics of audio recordings, providing a detailed report in PDF format. Ideal for investigators, forensic experts, and anyone who needs to analyze audio files professionally. 🔍🎧
+** AIUdio Forensics Tool** is a desktop application designed for forensic analysis of audio files. This tool allows you to detect manipulations, anomalies, and technical characteristics of audio recordings, providing a detailed report in PDF format. Ideal for investigators, forensic experts, and anyone who needs to analyze audio files professionally. 🔍🎧
 
 ---
 
@@ -94,7 +94,7 @@ To use features that rely on external APIs (e.g., Deepseek), you need to provide
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tuo-repository/UdioForensicsTool.git
+   git clone [https://github.com/tuo-repository/UdioForensicsTool.git](https://github.com/marcko80/AI_UdioForensicsTool)
    cd UdioForensicsTool
    ```
 
