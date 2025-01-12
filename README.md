@@ -1,6 +1,6 @@
 # 🎤 AI Udio Forensics Tool 🕵️‍♂️
 
-** AIUdio Forensics Tool** is a desktop application designed for forensic analysis of audio files. This tool allows you to detect manipulations, anomalies, and technical characteristics of audio recordings, providing a detailed report in PDF format. Ideal for investigators, forensic experts, and anyone who needs to analyze audio files professionally. 🔍🎧
+** AI Udio Forensics Tool** is a desktop application designed for forensic analysis of audio files. This tool allows you to detect manipulations, anomalies, and technical characteristics of audio recordings, providing a detailed report in PDF format. Ideal for investigators, forensic experts, and anyone who needs to analyze audio files professionally. 🔍🎧
 
 ---
 
